@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: "Mein Schiff Bordfinder"
+layout: page
 github:
   is_project_page: false
 footer {
