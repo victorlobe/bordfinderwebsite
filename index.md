@@ -1,6 +1,6 @@
-#Willkommen auf der Website der Bordfinder Apps
+## Willkommen auf der Website der Bordfinder Apps
 
-##Derzeit verfügbare Apps
+### Derzeit verfügbare Apps
 
 - Mein Schiff 4 Bordfinder
 - Mein Schiff 5 Bordfinder
