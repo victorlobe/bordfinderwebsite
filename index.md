@@ -1,3 +1,6 @@
+layout: default
+title: Home
+
 ## Willkommen auf der Website der Bordfinder Apps
 
 ### Derzeit verfügbare Apps
