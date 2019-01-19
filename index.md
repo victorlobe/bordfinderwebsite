@@ -6,4 +6,4 @@
 - Mein Schiff 5 Bordfinder
 - Mein Schiff 6 Bordfinder
 
-<img src="websiteImageScreenshotMain.png" alt="hi" class="inline"/>
+<img src="websiteImageScreenshotMain.png" alt="hi" class="inline" height="654" width="331"/>
