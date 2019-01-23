@@ -1,3 +1,5 @@
+title: Bordfinder Apps
+
 ## Willkommen auf der Website der Bordfinder Apps
 
 <img src="websiteImageScreenshotMain.png" alt="hi" class="inline" height="654" width="331" align="right"/>
