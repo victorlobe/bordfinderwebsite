@@ -1,7 +1,26 @@
 ## Willkommen auf der Website der Bordfinder Apps
 
-### Derzeit verfügbare Apps
+### Funktionen
+
+• Speisekarten der Restaurants und Bars
+• Informationen der einzelnen Bereiche
+• Sehen sie live, wann welcher Bereich geöffnet hat
+• Detaillierte Deckpläne mit Legende
+• Terminmanager
+• Rufen Sie das „Meine Reise“ Menü oder das Bordportal direkt von der App aus auf
+• Integrierte Umrechner wie z.B. ein Windstärken-Rechner
+• Lesen sie sich spannende Informationen über das Schiff durch
+• Und noch vieles mehr...
+
+### Vorteile
+
+• Offline verfügbar
+• Intuitives Design
+• Schnelle Bedienung
+
 <img src="websiteImageScreenshotMain.png" alt="hi" class="inline" height="654" width="331" align="right"/>
+
+### Derzeit verfügbare Apps
 
 - Mein Schiff 4 Bordfinder  
 - Mein Schiff 5 Bordfinder
