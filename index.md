@@ -33,4 +33,4 @@
 
 ## Kontakt
 
-Für weitere Fragen wenden sie sich bitte an: meinschiffbordfinder@gmail.com
+Für weitere Fragen wenden sie sich bitte an: <meinschiffbordfinder@gmail.com>
