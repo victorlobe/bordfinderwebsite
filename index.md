@@ -29,3 +29,8 @@
 ### Bald verfügbar
 
 - Mein Schiff 1 Bordfinder
+
+
+## Kontakt
+
+Für weitere Fragen wenden sie sich bitte an: meinschiffbordfinder@gmail.com
