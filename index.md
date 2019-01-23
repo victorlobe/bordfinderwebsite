@@ -1,5 +1,7 @@
 ## Willkommen auf der Website der Bordfinder Apps
 
+<img src="websiteImageScreenshotMain.png" alt="hi" class="inline" height="654" width="331" align="right"/>
+
 ### Funktionen
 
 - Speisekarten der Restaurants und Bars
@@ -17,8 +19,6 @@
 - Offline verfügbar
 - Intuitives Design
 - Schnelle Bedienung
-
-<img src="websiteImageScreenshotMain.png" alt="hi" class="inline" height="654" width="331" align="right"/>
 
 ### Derzeit verfügbare Apps
 
