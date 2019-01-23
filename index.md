@@ -26,4 +26,6 @@
 - Mein Schiff 5 Bordfinder
 - Mein Schiff 6 Bordfinder
 
+### Bald verfügbar
 
+- Mein Schiff 1 Bordfinder
