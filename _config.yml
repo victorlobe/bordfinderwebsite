@@ -5,3 +5,5 @@ github:
   is_project_page: false
 footer:
   display: none
+changelog: changelog.html 
+{{ site.url }}{{ site.changelog }}/changelog.html
