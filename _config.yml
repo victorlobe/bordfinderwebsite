@@ -6,4 +6,3 @@ github:
 footer:
   display: none
 changelog: changelog.html 
-{{ site.url }}{{ site.changelog }}/changelog.html
