@@ -5,4 +5,4 @@ github:
   is_project_page: false
 footer:
   display: none
-changelog: changelog.html 
+changelog: changelog.md
