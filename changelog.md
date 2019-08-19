@@ -5,6 +5,7 @@ title: Changelog
 permalink: /changelog/
 ---
 
+
 ### 3.3 (3.2)
 
 Größte Änderungen:
@@ -65,7 +66,7 @@ Die meisten Einstellungen benötigen ab sofort keinen Neustart der App mehr.
 
 Beim ersten Start der App, wird die Setup Auswahl repräsentativer dargestellt  
 
-Bar Karte aktualisiert 
+Bar Karte aktualisiert
 
 Fehler behoben.
 
@@ -73,7 +74,7 @@ Ein Fehler wurde behoben, der auf einigen Geräten die runden Ecken fehlerhaft d
 
 Der „Aktuell geöffnet“ Filter funktioniert jetzt ohne Probleme.
 
-Ein Fehler, der gelegentlich beim einstellen einer neuen Route auftrat, wurde behoben 
+Ein Fehler, der gelegentlich beim einstellen einer neuen Route auftrat, wurde behoben
 
 Ein Fehler wurde behoben, der dazu führte, dass die App unter Umständen nicht ordnungsgemäß startet.
 
@@ -141,7 +142,7 @@ Die meisten Einstellungen benötigen ab sofort keinen Neustart der App mehr.
 
 Beim ersten Start der App, wird die Setup Auswahl repräsentativer dargestellt  
 
-Bar Karte aktualisiert 
+Bar Karte aktualisiert
 
 Fehler behoben.
 
@@ -149,13 +150,13 @@ Ein Fehler wurde behoben, der auf einigen Geräten die runden Ecken fehlerhaft d
 
 Der „Aktuell geöffnet“ Filter funktioniert jetzt ohne Probleme.
 
-Ein Fehler, der gelegentlich beim einstellen einer neuen Route auftrat, wurde behoben 
+Ein Fehler, der gelegentlich beim einstellen einer neuen Route auftrat, wurde behoben
 
 Ein Fehler wurde behoben, der dazu führte, dass die App unter Umständen nicht ordnungsgemäß startet.
 
 iPhone X Anpassung
 
-iPhone Xs Anpassung 
+iPhone Xs Anpassung
 
 iPhone Xr Anpassung
 
@@ -240,13 +241,13 @@ Sonstige Neuerungen:
 
 
 
-### 2.2 
+### 2.2
 
  Deck und Sitzplatzkapazität der Restaurants / Bars
  Neu designte Icons
  Haptisches Feedback
  Windstärkenrechner
- 
+
 
 
 
@@ -260,7 +261,7 @@ Fehler im Meine Reise Menü behoben
 - Live Vorschau beim einspeichern der Kabine
 - Haptisches Feedback im "Meine Reise" Menü
 - Allgemeine Verbesserungen
-- Parallax Effekt im Hauptmenü 
+- Parallax Effekt im Hauptmenü
 -  iOS 9 und iPhone 4s Unterstützung (teilweise)
 
 ### 2.0.1 „Atlantik“
@@ -275,8 +276,8 @@ GOSCH Sylt Layout wurde behoben
 
 ### 1.10 „Hanami“
 
-- Spa & Sport im Spa & Sport Menü entfernt 
-- Layout der Friseur Preisliste angepasst 
+- Spa & Sport im Spa & Sport Menü entfernt
+- Layout der Friseur Preisliste angepasst
 - Layout Anpassungen im Meine Reise Menü
 
 ### 1.9 „Ipanema"
@@ -293,10 +294,10 @@ GOSCH Sylt Layout wurde behoben
 - Fehler der Navigationsleiste in „Restaurants & Bistros“ wurde behoben
 - Fehler im „Meine Reise“ Menü wurde behoben
 - Spa & Sport Menü ist vorübergehend deaktiviert
-- Feedback Menü hinzugefügt 
-- Speisekarte / Barkarte Buttons verschönert 
+- Feedback Menü hinzugefügt
+- Speisekarte / Barkarte Buttons verschönert
 - Hintergrund der Decks auf Plus Geräten repariert
-- Layout Fixes für iPads 
+- Layout Fixes für iPads
 
 
 
@@ -309,7 +310,7 @@ GOSCH Sylt Layout wurde behoben
 
 ### 1.7
 
-- Die App wurde bis auf kleinere Details komplett für alle Gerätegrößen angepasst 
+- Die App wurde bis auf kleinere Details komplett für alle Gerätegrößen angepasst
 - Windstärkentabelle
 - Neues Design der Öffnungszeiten
 - Die Kabinennummer kann jetzt hinzugefügt werden
@@ -347,10 +348,10 @@ GOSCH Sylt Layout wurde behoben
 -Launchscreen wurde hinzugefügt
 
 
-### 1.2 
+### 1.2
 
-- 2 neue Icons hinzugefügt 
-- Info Knopf hinzugefügt 
+- 2 neue Icons hinzugefügt
+- Info Knopf hinzugefügt
 - Notrufnummer aktualisiert
 - Hinweis hinzugefügt dass die Notrufnummern die Nummer des Schiffes ist
 
