@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: "Mein Schiff Bordfinder"
 description: "Die offizielle Webseite der Bordfinder Apps."
-permalink: changelog.md
+permalink: /:categories/:year/:month/:day/:changelog:output_ext
 github:
   is_project_page: false
 footer:
