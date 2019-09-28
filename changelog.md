@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Changelog
-permalink: /changelog/
+description: Changelog
 ---
 
 
