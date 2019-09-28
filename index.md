@@ -4,7 +4,7 @@
 
 ### Funktionen
 
-- Speisekarten der Restaurants und Barsp
+- Speisekarten der Restaurants und Bars
 - Informationen der einzelnen Bereiche
 - Sehen sie live, wann welcher Bereich geöffnet hat
 - Detaillierte Deckpläne mit Legende
