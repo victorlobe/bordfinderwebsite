@@ -1,4 +1,4 @@
-# [Changelog](./changelog.html)   [Kontakt](./contact.html)
+# [Changelog](./changelog.md)   [Kontakt](./contact.html)
 
 
 ## Mein Schiff Bordfinder Apps
