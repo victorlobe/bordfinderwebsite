@@ -4,7 +4,7 @@ title: Home
 description: Willkommen auf der Webseite der Bordfinder Apps
 ---
 
-//# [Changelog](./changelog.md)   [Kontakt](./contact.html)
+<!--# [Changelog](./changelog.md)   [Kontakt](./contact.html)-->
 
 
 ## Mein Schiff Bordfinder Apps
