@@ -1,3 +1,13 @@
+{% for menu-item in site.data.menus.sidebar %}
+<ul>
+   <li>{{ menu-item.title}}</li>
+</ul>
+{% endfor %}
+
+
+
+
+
 ## Mein Schiff Bordfinder Apps
 
 <img src="websiteImageScreenshotMain.png" alt="hi" class="inline" height="654" width="331" align="right"/>
