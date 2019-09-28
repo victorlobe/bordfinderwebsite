@@ -1,20 +1,10 @@
-{% for menu-item in site.data.menus.sidebar %}
-<ul>
-   <li>{{ menu-item.title}}</li>
-</ul>
-{% endfor %}
-
-
-
-
-
 ## Mein Schiff Bordfinder Apps
 
 <img src="websiteImageScreenshotMain.png" alt="hi" class="inline" height="654" width="331" align="right"/>
 
 ### Funktionen
 
-- Speisekarten der Restaurants und Bars
+- Speisekarten der Restaurants und Barsp
 - Informationen der einzelnen Bereiche
 - Sehen sie live, wann welcher Bereich geöffnet hat
 - Detaillierte Deckpläne mit Legende
