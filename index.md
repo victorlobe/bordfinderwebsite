@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Home
-description: Willkommen auf der Webseite der Bordfinder Apps
+title: Willkommen auf der Webseite der Bordfinder Apps
 ---
 
 <!--# [Changelog](./changelog.md)   [Kontakt](./contact.html)-->
