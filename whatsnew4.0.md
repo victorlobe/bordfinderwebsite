@@ -9,7 +9,7 @@ title: Bordfinder 4.0 - Ein großer Sprung
 
 
 
-<img src="/Promo4.0Resources/promoManager.png" alt="TravelMangerPromoImage" class="inline" height="654" width="331" style="vertical-align:middle"/>
+<img src="/Promo4.0Resources/promoManager.png" alt="TravelMangerPromoImage" width="331" height="654" style="vertical-align:middle"/>
 
 # Reisemanager
 
