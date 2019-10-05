@@ -3,7 +3,7 @@ layout: default
 title: Mein Schiff Bordfinder 4.0
 ---
 
-# <center>Mein Schiff Bordfinder 4.0 - Ein ganz großer Sprung</center>
+# <center>Mein Schiff Bordfinder 4.0 - Ein ganz großer Sprung
 
 <img src="/Promo4.0Resources/promoManager.png" alt="TravelMangerPromoImage" class="inline" height="654" width="331" align="middle"/>
 
@@ -30,3 +30,4 @@ Passend zum neuen iOS 13 Update bietet die App ab sofort volle Unterstützung zu
 ## WhatsApp Support
 
 Du kannst alle deine Fragen ab sofort direkt über WhatsApp stellen. Gehe dazu in die Einstellungen der App, dann auf den Kontakt Button und wähle den WhatsApp Support aus. Du profitierst von deutlich schnelleren Reaktionszeiten.
+</center>
