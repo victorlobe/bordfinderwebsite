@@ -40,6 +40,7 @@ font-style: normal;
 font-variant: normal;
 text-transform: none;
 }
+---
 
 <title>MSBFHeadline</title>
 <style>
@@ -63,9 +64,6 @@ background-color: #ffffff;
 <p>Mein Schiff Bordfinder 4.0 - Ein ganz großer Sprung</p>
 </div>
 
-
-
----
 <center><div id=MSBFHeadline>Mein Schiff Bordfinder 4.0 - Ein ganz großer Sprung</div></center>
 
 <img src="/Promo4.0Resources/promoManager.png" alt="TravelMangerPromoImage" class="inline" height="654" width="331" align="middle"/>
