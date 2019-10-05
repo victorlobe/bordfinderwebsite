@@ -1,6 +1,45 @@
 ---
 layout: default
 title: Bordfinder 4.0 - Ein großer Sprung
+
+#MSBFHeadline {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+letter-spacing: 0px;
+word-spacing: 2px;
+color: #1E2E56;
+font-weight: bold;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+
+#MSBFTitle {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 24px;
+letter-spacing: 0px;
+word-spacing: 2px;
+color: #1E2E56;
+font-weight: bold;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+
+#MSBFText {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 17px;
+letter-spacing: 0px;
+word-spacing: 2px;
+color: #1E2E56;
+font-weight: 400;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
 ---
 
 # <center>Mein Schiff Bordfinder 4.0 - Ein ganz großer Sprung</center>
