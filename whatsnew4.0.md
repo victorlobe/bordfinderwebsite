@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Bordfinder 4.0 - Ein großer Sprung
+title: Bordfinder 4.0 - Alles auf neu
 ---
 
- <b><center><font color="1E2E56" size="40">Mein Schiff Bordfinder 4.0 - Ein großer Schritt</font></center></b>
+ <b><center><font color="1E2E56" size="40">Mein Schiff Bordfinder 4.0 - Alles auf neu</font></center></b>
 
 
 
