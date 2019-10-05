@@ -3,7 +3,7 @@ layout: default
 title: Bordfinder 4.0 - Ein großer Sprung
 ---
 
-# <b><center><font color="1E2E56" size="40">Mein Schiff Bordfinder 4.0 - Ein großer Schritt</font></center></b>
+ <b><center><font color="1E2E56" size="40">Mein Schiff Bordfinder 4.0 - Ein großer Schritt</font></center></b>
 
 
 
@@ -11,7 +11,7 @@ title: Bordfinder 4.0 - Ein großer Sprung
 <img src="/Promo4.0Resources/promoManager.png" alt="TravelMangerPromoImage" class="inline" height="654" width="331" align="middle"/>
 <img src="/Promo4.0Resources/promoManagerDay.png" alt="TravelMangerPromoImage" class="inline" height="654" width="331" align="middle"/>
 
-# Reisemanager
+<b><center><font color="1E2E56" size="24">Reisemanager</font></center></b>
 
 Ab sofort wirst du vor, während und nach der Reise von der Mein Schiff Bordfinder App begleitet. Plane jeden Tag bis ins kleinste Detail und werde rechtzeitig an deine Termine erinnert.
 
@@ -21,7 +21,8 @@ Ab sofort wirst du vor, während und nach der Reise von der Mein Schiff Bordfind
 
 <img src="/Promo4.0Resources/promoHomescreenHD.gif" alt="promoHomescreen" class="inline" align="middle"/>
 
-# Neuer Homescreen
+<b><center><font color="1E2E56" size="24">Homescreen</font></center></b>
+
 Der Homescreen ist jetzt noch einfacher zu bedienen. Alle Symbole sind ab sofort nur noch einen Wisch entfernt. Außerdem werden alle Randinformationen wie z.B. die Reise bzw. Kabinennummer auf jeder Seite angezeigt.
 
 
@@ -33,7 +34,7 @@ Der Homescreen ist jetzt noch einfacher zu bedienen. Alle Symbole sind ab sofort
   <source src="/Promo4.0Resources/promoSiri.mp4" type="video/mp4">
 </video>
 
-# Sprachassistent
+<b><center><font color="1E2E56" size="24">Sprachassistent</font></center></b>
 
 Mit dem neuen Assistenten kannst du dir alle deine Fragen direkt beantworten lassen, ohne durch die App navigieren zu müssen. Wische einfach auf dem Home Bildschirm von der Bildschirmmitte nach unten.
 
@@ -43,7 +44,7 @@ Mit dem neuen Assistenten kannst du dir alle deine Fragen direkt beantworten las
 
 <img src="/Promo4.0Resources/promoDynamicAppereance.gif" alt="promoHomescreen" class="inline" height="654" width="331" align="middle"/>
 
-# Dynamische Wallpaper
+<b><center><font color="1E2E56" size="24">Dynamische Wallpaper</font></center></b>
 
 Wenn gewünscht, passt sich das Hintergrundbild der aktuellen Tageszeit an. So siehst du abends den Sonnenuntergang nicht nur von deiner Kabine, sondern auch wenn du die Mein Schiff Bordfinder App benutzt.
 
@@ -53,13 +54,13 @@ Wenn gewünscht, passt sich das Hintergrundbild der aktuellen Tageszeit an. So s
 
 <img src="/Promo4.0Resources/promoDarkMode.gif" alt="promoHomescreen" class="inline" height="654" width="331" align="middle"/>
 
-# Dark Mode
+<b><center><font color="1E2E56" size="24">Dark mode</font></center></b>
 
 Passend zum neuen iOS 13 Update bietet die App ab sofort volle Unterstützung zum Dark Mode, um deine Augen in dunklem Licht zu schonen. Der Dark Mode passt sich außerdem der Systemeinstellung an.
 
 
 
 
-# WhatsApp Support
+<b><center><font color="1E2E56" size="24">WhatsApp Support</font></center></b>
 
 Du kannst alle deine Fragen ab sofort direkt über WhatsApp stellen. Gehe dazu in die Einstellungen der App, dann auf den Kontakt Button und wähle den WhatsApp Support aus. Du profitierst von deutlich schnelleren Reaktionszeiten.
