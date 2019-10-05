@@ -1,12 +1,9 @@
 ---
 layout: default
 title: Bordfinder 4.0 - Ein großer Sprung
-
-<h1 style="color:1E2E56;">This is a Blue Heading</h1>
-
 ---
 
-
+<font color=1E2E56>Mein Schiff Bordfinder 4.0 - Ein großer Schritt</font>
 
 <img src="/Promo4.0Resources/promoManager.png" alt="TravelMangerPromoImage" class="inline" height="654" width="331" align="middle"/>
 
