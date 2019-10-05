@@ -2,69 +2,11 @@
 layout: default
 title: Bordfinder 4.0 - Ein großer Sprung
 
-#MSBFHeadlineD {
-font-family: Arial, Helvetica, sans-serif;
-font-size: 40px;
-letter-spacing: 0px;
-word-spacing: 2px;
-color: #1E2E56;
-font-weight: bold;
-text-decoration: none;
-font-style: normal;
-font-variant: normal;
-text-transform: none;
-}
+<h1 style="color:1E2E56;">This is a Blue Heading</h1>
 
-#MSBFTitle {
-font-family: Arial, Helvetica, sans-serif;
-font-size: 24px;
-letter-spacing: 0px;
-word-spacing: 2px;
-color: #1E2E56;
-font-weight: bold;
-text-decoration: none;
-font-style: normal;
-font-variant: normal;
-text-transform: none;
-}
-
-#MSBFText {
-font-family: Arial, Helvetica, sans-serif;
-font-size: 17px;
-letter-spacing: 0px;
-word-spacing: 2px;
-color: #1E2E56;
-font-weight: 400;
-text-decoration: none;
-font-style: normal;
-font-variant: normal;
-text-transform: none;
-}
 ---
 
-<title>MSBFHeadline</title>
-<style>
-div.container {
-background-color: #ffffff;
-}
-div.container p {
-text-align: center;
-font-family: Arial;
-font-size: 48px;
-font-style: normal;
-font-weight: bold;
-text-decoration: none;
-text-transform: none;
-color: #273e69;
-background-color: #ffffff;
-}
-</style>
 
-<div class="container">
-<p>Mein Schiff Bordfinder 4.0 - Ein ganz großer Sprung</p>
-</div>
-
-<center><div id=MSBFHeadline>Mein Schiff Bordfinder 4.0 - Ein ganz großer Sprung</div></center>
 
 <img src="/Promo4.0Resources/promoManager.png" alt="TravelMangerPromoImage" class="inline" height="654" width="331" align="middle"/>
 
