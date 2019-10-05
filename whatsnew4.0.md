@@ -8,8 +8,8 @@ title: Bordfinder 4.0 - Ein großer Sprung
 
 
 
-<img src="/Promo4.0Resources/promoManager.png" alt="TravelMangerPromoImage" class="inline" height="654" width="331" align="middle"/>
-<img src="/Promo4.0Resources/promoManagerDay.png" alt="TravelMangerPromoImage" class="inline" height="654" width="331" align="middle"/>
+<img src="/Promo4.0Resources/promoManager.png" alt="TravelMangerPromoImage" class="inline" height="327" width="165.5" align="middle"/>
+<img src="/Promo4.0Resources/promoManagerDay.png" alt="TravelMangerPromoImage" class="inline" height="327" width="165.5" align="middle"/>
 
 <b><center><font color="1E2E56" size="24">Reisemanager</font></center></b>
 
@@ -30,7 +30,7 @@ Der Homescreen ist jetzt noch einfacher zu bedienen. Alle Symbole sind ab sofort
 
 
 
-<video width="331" height="654" controls autoplay>
+<video width="165.5" height="327" controls autoplay>
   <source src="/Promo4.0Resources/promoSiri.mp4" type="video/mp4">
 </video>
 
@@ -42,7 +42,7 @@ Mit dem neuen Assistenten kannst du dir alle deine Fragen direkt beantworten las
 
 
 
-<img src="/Promo4.0Resources/promoDynamicAppereance.gif" alt="promoHomescreen" class="inline" height="654" width="331" align="middle"/>
+<img src="/Promo4.0Resources/promoDynamicAppereance.gif" alt="promoHomescreen" class="inline" height="327" width="165.5" align="middle"/>
 
 <b><center><font color="1E2E56" size="24">Dynamische Wallpaper</font></center></b>
 
@@ -52,7 +52,7 @@ Wenn gewünscht, passt sich das Hintergrundbild der aktuellen Tageszeit an. So s
 
 
 
-<img src="/Promo4.0Resources/promoDarkMode.gif" alt="promoHomescreen" class="inline" height="654" width="331" align="middle"/>
+<img src="/Promo4.0Resources/promoDarkMode.gif" alt="promoHomescreen" class="inline" height="327" width="165.5" align="middle"/>
 
 <b><center><font color="1E2E56" size="24">Dark mode</font></center></b>
 
