@@ -17,10 +17,16 @@ Ab sofort wirst du vor, während und nach der Reise von der Mein Schiff Bordfind
 
 
 
+
+
+
 <img src="/Promo4.0Resources/promoHomescreen.gif" alt="promoHomescreen" class="inline" height="654" width="331" align="middle"/>
 
 # Neuer Homescreen
 Der Homescreen ist jetzt noch einfacher zu bedienen. Alle Symbole sind ab sofort nur noch einen Wisch entfernt. Außerdem werden alle Randinformationen wie z.B. die Reise bzw. Kabinennummer auf jeder Seite angezeigt.
+
+
+
 
 
 
@@ -33,6 +39,9 @@ Der Homescreen ist jetzt noch einfacher zu bedienen. Alle Symbole sind ab sofort
 Mit dem neuen Assistenten kannst du dir alle deine Fragen direkt beantworten lassen, ohne durch die App navigieren zu müssen. Wische einfach auf dem Home Bildschirm von der Bildschirmmitte nach unten.
 
 
+
+
+
 <img src="/Promo4.0Resources/promoDynamicAppereance.gif" alt="promoHomescreen" class="inline" height="654" width="331" align="middle"/>
 
 # Dynamische Wallpaper
@@ -40,11 +49,17 @@ Mit dem neuen Assistenten kannst du dir alle deine Fragen direkt beantworten las
 Wenn gewünscht, passt sich das Hintergrundbild der aktuellen Tageszeit an. So siehst du abends den Sonnenuntergang nicht nur von deiner Kabine, sondern auch wenn du die Mein Schiff Bordfinder App benutzt.
 
 
+
+
+
 <img src="/Promo4.0Resources/promoDarkMode.gif" alt="promoHomescreen" class="inline" height="654" width="331" align="middle"/>
 
 # Dark Mode
 
 Passend zum neuen iOS 13 Update bietet die App ab sofort volle Unterstützung zum Dark Mode, um deine Augen in dunklem Licht zu schonen. Der Dark Mode passt sich außerdem der Systemeinstellung an.
+
+
+
 
 # WhatsApp Support
 
