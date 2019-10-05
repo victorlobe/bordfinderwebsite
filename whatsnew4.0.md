@@ -5,6 +5,8 @@ title: Mein Schiff Bordfinder 4.0
 
 # <center>Mein Schiff Bordfinder 4.0 - Ein ganz großer Sprung</center>
 
+<img src="Promo4.0Resources/promoManager.png" alt="hi" class="inline" height="654" width="331" align="right"/>
+
 ## Reisemanager
 
 Ab sofort wirst du vor, während und nach der Reise von der Mein Schiff Bordfinder App begleitet. Plane jeden Tag bis ins kleinste Detail und werde rechtzeitig an deine Termine erinnert.
