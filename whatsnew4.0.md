@@ -9,23 +9,39 @@ title: Bordfinder 4.0 - Ein großer Sprung
 
 
 
+<img src="/Promo4.0Resources/promoManager.png" alt="TravelMangerPromoImage" class="inline" height="654" width="331" align="middle"/>
+<img src="/Promo4.0Resources/promoManagerDay.png" alt="TravelMangerPromoImage" class="inline" height="654" width="331" align="middle"/>
 
 # Reisemanager
 
-<img src="/Promo4.0Resources/promoManager.png" alt="TravelMangerPromoImage" class="inline" height="654" width="331" align="middle"/>
-
 Ab sofort wirst du vor, während und nach der Reise von der Mein Schiff Bordfinder App begleitet. Plane jeden Tag bis ins kleinste Detail und werde rechtzeitig an deine Termine erinnert.
+
+
+
+<img src="/Promo4.0Resources/promoHomescreen.gif" alt="promoHomescreen" class="inline" height="654" width="331" align="middle"/>
 
 # Neuer Homescreen
 Der Homescreen ist jetzt noch einfacher zu bedienen. Alle Symbole sind ab sofort nur noch einen Wisch entfernt. Außerdem werden alle Randinformationen wie z.B. die Reise bzw. Kabinennummer auf jeder Seite angezeigt.
+
+
+
+<video width="331" height="654" controls autoplay>
+  <source src="/Promo4.0Resources/promoSiri.mp4" type="video/mp4">
+</video>
 
 # Sprachassistent
 
 Mit dem neuen Assistenten kannst du dir alle deine Fragen direkt beantworten lassen, ohne durch die App navigieren zu müssen. Wische einfach auf dem Home Bildschirm von der Bildschirmmitte nach unten.
 
+
+<img src="/Promo4.0Resources/promoDynamicAppereance.gif" alt="promoHomescreen" class="inline" height="654" width="331" align="middle"/>
+
 # Dynamische Wallpaper
 
 Wenn gewünscht, passt sich das Hintergrundbild der aktuellen Tageszeit an. So siehst du abends den Sonnenuntergang nicht nur von deiner Kabine, sondern auch wenn du die Mein Schiff Bordfinder App benutzt.
+
+
+<img src="/Promo4.0Resources/promoDarkMode.gif" alt="promoHomescreen" class="inline" height="654" width="331" align="middle"/>
 
 # Dark Mode
 
