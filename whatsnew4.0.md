@@ -20,7 +20,7 @@ Ab sofort wirst du vor, während und nach der Reise von der Mein Schiff Bordfind
 
 
 
-<img src="/Promo4.0Resources/promoHomescreen.gif" alt="promoHomescreen" class="inline" height="654" width="331" align="middle"/>
+<img src="/Promo4.0Resources/promoHomescreenHD.gif" alt="promoHomescreen" class="inline" height="654" width="331" align="middle"/>
 
 # Neuer Homescreen
 Der Homescreen ist jetzt noch einfacher zu bedienen. Alle Symbole sind ab sofort nur noch einen Wisch entfernt. Außerdem werden alle Randinformationen wie z.B. die Reise bzw. Kabinennummer auf jeder Seite angezeigt.
