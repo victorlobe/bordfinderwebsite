@@ -2,7 +2,7 @@
 layout: default
 title: Bordfinder 4.0 - Ein großer Sprung
 
-#MSBFHeadline {
+#MSBFHeadlineD {
 font-family: Arial, Helvetica, sans-serif;
 font-size: 40px;
 letter-spacing: 0px;
@@ -40,8 +40,33 @@ font-style: normal;
 font-variant: normal;
 text-transform: none;
 }
+
+<title>MSBFHeadline</title>
+<style>
+div.container {
+background-color: #ffffff;
+}
+div.container p {
+text-align: center;
+font-family: Arial;
+font-size: 48px;
+font-style: normal;
+font-weight: bold;
+text-decoration: none;
+text-transform: none;
+color: #273e69;
+background-color: #ffffff;
+}
+</style>
+
+<div class="container">
+<p>Mein Schiff Bordfinder 4.0 - Ein ganz großer Sprung</p>
+</div>
+
+
+
 ---
-<div id="MSBFHeadline">Mein Schiff Bordfinder 4.0 - Ein ganz großer Sprung</div>
+<center><div id=MSBFHeadline>Mein Schiff Bordfinder 4.0 - Ein ganz großer Sprung</div></center>
 
 <img src="/Promo4.0Resources/promoManager.png" alt="TravelMangerPromoImage" class="inline" height="654" width="331" align="middle"/>
 
