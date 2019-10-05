@@ -5,7 +5,7 @@ title: Mein Schiff Bordfinder 4.0
 
 # <center>Mein Schiff Bordfinder 4.0 - Ein ganz großer Sprung</center>
 
-<img src="Promo4.0Resources/promoManager.png" alt="promoManager.png" class="inline" height="654" width="331" align="center"/>
+<img src="/Promo4.0Resources/promoManager.png" alt="TravelMangerPromoImage" class="inline" height="654" width="331" align="center"/>
 
 ## Reisemanager
 
