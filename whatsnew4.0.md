@@ -10,7 +10,7 @@ title: Bordfinder 4 - Alles neu
 
 <p style="text-align:center;"><img src="/Promo4.0Resources/promoManagerCombined.png" alt="TravelMangerPromoImage" width="450" height="337"></p>
 
-<p>center><font color="1E2E56" size="24">Reisemanager</font></center></p>
+<p><center><font color="1E2E56" size="24">Reisemanager</font></center></p>
 
 <p>Ab sofort wirst du vor, während und nach der Reise von der Mein Schiff Bordfinder App begleitet. Plane jeden Tag bis ins kleinste Detail und werde rechtzeitig an deine Termine erinnert.</p>
 
