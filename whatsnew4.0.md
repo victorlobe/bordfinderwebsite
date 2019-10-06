@@ -56,7 +56,9 @@ title: Bordfinder 4 - Alles neu
 <p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="240"></p>
 
 <p><font color="b5b5b5" size="1">Ende des Jahres kostenlos für alle Besitzer einer älteren Bordfinder Version erhältlich.</font></p>
+<p><font color="b5b5b5" size="1">Benötigt ein iPhone 4s mit iOS 9 oder neuer.</font></p>
 <p><font color="b5b5b5" size="1">Für den Sprachassistenten wird iOS 10 oder neuer benötigt.</font></p>
 <p><font color="b5b5b5" size="1">Die hier gezeigten Darstellungen können von der Realität abweichen.</font></p>
 <p><font color="b5b5b5" size="1">Für den Dark Mode mit Systemsynchronisierung wird iOS 13 oder neuer benötigt. Der Dark Mode kann jedoch unter allen Versionen aktiviert werden.</font></p>
+<p><font color="b5b5b5" size="1">Für Dynamische Wallpaper wird ein iPhone 5 oder neuer benötigt.</font></p>
 <p><font color="b5b5b5" size="1">Für den WhatsApp Support gelten die Bestimmungen von WhatsApp inc.</font></p>
