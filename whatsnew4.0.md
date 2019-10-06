@@ -8,7 +8,7 @@ title: Bordfinder 4 - Alles neu
  <p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" "></p>
 
 
-<p style="text-align:center;"><img src="/Promo4.0Resources/promoManagerCombined.png" alt="TravelMangerPromoImage"></p>
+<p style="text-align:center;"><img src="/Promo4.0Resources/promoManagerCombined.png" alt="TravelMangerPromoImage" width="450" height="337"></p>
 
 <p><b><center><font color="1E2E56" size="24">Reisemanager</font></center></b></p>
 
