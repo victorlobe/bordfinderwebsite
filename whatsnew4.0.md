@@ -33,7 +33,7 @@ title: Bordfinder 4 - Alles neu
 <p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" "></p>
 
 
-<p style="text-align:center;" width="175" height="351"><img src="/Promo4.0Resources/promoDynamicAppereance.gif" alt="promoDynamicAppereance"></p>
+<p style="text-align:center;"><img src="/Promo4.0Resources/promoDynamicAppereance.gif" alt="promoDynamicAppereance" width="175" height="351"></p>
 
 <p><b><center><font color="1E2E56" size="24">Dynamische Wallpaper</font></center></b></p>
 
