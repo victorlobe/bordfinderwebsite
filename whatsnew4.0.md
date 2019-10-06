@@ -66,5 +66,5 @@ Passend zum neuen iOS 13 Update bietet die App ab sofort volle Unterstützung zu
 Du kannst alle deine Fragen ab sofort direkt über WhatsApp stellen. Gehe dazu in die Einstellungen der App, dann auf den Kontakt Button und wähle den WhatsApp Support aus. Du profitierst von deutlich schnelleren Reaktionszeiten.
 
 
-<font color="b5b5b5" size="12">Ende des Jahres kostenlos für alle Besitzer einer älteren Bordfinder Version erhältlich.</font>
-<font color="b5b5b5" size="12">Für den Sprachassistenten wird ios 10 oder neuer benötigt.</font>
+<font color="b5b5b5" size="8">Ende des Jahres kostenlos für alle Besitzer einer älteren Bordfinder Version erhältlich.</font>
+<font color="b5b5b5" size="8">Für den Sprachassistenten wird ios 10 oder neuer benötigt.</font>
