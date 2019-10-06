@@ -12,7 +12,7 @@ title: Bordfinder 4 - Alles neu
 
 <p><b><center><font color="1E2E56" size="24">Reisemanager</font></center></b></p>
 
-<img src="/Promo4.0Resources/promoManagerCombined.png" alt="TravelMangerPromoImage" class="inline" height="327" width="165.5" align="middle"/>
+<img src="/Promo4.0Resources/promoManagerCombined.png" alt="TravelMangerPromoImage" class="inline" align="middle"/>
 
 <p>Ab sofort wirst du vor, während und nach der Reise von der Mein Schiff Bordfinder App begleitet. Plane jeden Tag bis ins kleinste Detail und werde rechtzeitig an deine Termine erinnert.</p>
 
@@ -47,7 +47,7 @@ title: Bordfinder 4 - Alles neu
 
 <p><b><center><font color="1E2E56" size="24">Dynamische Wallpaper</font></center></b></p>
 
-<img src="/Promo4.0Resources/promoDynamicAppereance.gif" alt="promoHomescreen" class="inline" height="327" width="165.5" align="middle"/>
+<img src="/Promo4.0Resources/promoDynamicAppereance.gif" alt="promoHomescreen" class="inline" align="middle"/>
 
 <p>Wenn gewünscht, passt sich das Hintergrundbild der aktuellen Tageszeit an. So siehst du abends den Sonnenuntergang nicht nur von deiner Kabine, sondern auch wenn du die Mein Schiff Bordfinder App benutzt.</p>
 
@@ -58,7 +58,7 @@ title: Bordfinder 4 - Alles neu
 
 <p><b><center><font color="1E2E56" size="24">Dark mode</font></center></b></p>
 
-<img src="/Promo4.0Resources/promoDarkMode.gif" alt="promoHomescreen" class="inline" height="327" width="165.5" align="middle"/>
+<img src="/Promo4.0Resources/promoDarkMode.gif" alt="promoHomescreen" class="inline" align="middle"/>
 
 <p>Passend zum neuen iOS 13 Update bietet die App ab sofort volle Unterstützung zum Dark Mode, um deine Augen in dunklem Licht zu schonen. Der Dark Mode passt sich außerdem der Systemeinstellung an.</p>
 
