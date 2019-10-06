@@ -12,8 +12,7 @@ title: Bordfinder 4 - Alles neu
 
 <p><b><center><font color="1E2E56" size="24">Reisemanager</font></center></b></p>
 
-<img src="/Promo4.0Resources/promoManager.png" alt="TravelMangerPromoImage" class="inline" height="327" width="165.5" align="middle"/>
-<img src="/Promo4.0Resources/promoManagerDay.png" alt="TravelMangerPromoImage" class="inline" height="327" width="165.5" align="middle"/>
+<img src="/Promo4.0Resources/promoManagerCombined.png" alt="TravelMangerPromoImage" class="inline" height="327" width="165.5" align="middle"/>
 
 <p>Ab sofort wirst du vor, während und nach der Reise von der Mein Schiff Bordfinder App begleitet. Plane jeden Tag bis ins kleinste Detail und werde rechtzeitig an deine Termine erinnert.</p>
 
@@ -37,9 +36,7 @@ title: Bordfinder 4 - Alles neu
 
 <p><b><center><font color="1E2E56" size="24">Sprachassistent</font></center></b></p>
 
-<video width="165.5" height="327" controls autoplay>
-  <source src="/Promo4.0Resources/promoSiri.mp4" type="video/mp4">
-</video>
+<img src="/Promo4.0Resources/promoSiri.gif" alt="promoHomescreen" class="inline" align="middle"/>
 
 <p>Mit dem neuen Assistenten kannst du dir alle deine Fragen direkt beantworten lassen, ohne durch die App navigieren zu müssen. Wische einfach auf dem Home Bildschirm von der Bildschirmmitte nach unten.</p>
 
