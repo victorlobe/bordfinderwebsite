@@ -16,9 +16,7 @@ title: Bordfinder 4 - Alles neu
 
 <p>Ab sofort wirst du vor, während und nach der Reise von der Mein Schiff Bordfinder App begleitet. Plane jeden Tag bis ins kleinste Detail und werde rechtzeitig an deine Termine erinnert.</p>
 
-
-
-
+<p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" "></p>
 
 
 <p><b><center><font color="1E2E56" size="24">Homescreen</font></center></b></p>
@@ -27,12 +25,7 @@ title: Bordfinder 4 - Alles neu
 
 <p>Der Homescreen ist jetzt noch einfacher zu bedienen. Alle Symbole sind ab sofort nur noch einen Wisch entfernt. Außerdem werden alle Randinformationen wie z.B. die Reise bzw. Kabinennummer auf jeder Seite angezeigt.</p>
 
-
-
-
-
-
-
+<p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" "></p>
 
 <p><b><center><font color="1E2E56" size="24">Sprachassistent</font></center></b></p>
 
@@ -40,10 +33,7 @@ title: Bordfinder 4 - Alles neu
 
 <p>Mit dem neuen Assistenten kannst du dir alle deine Fragen direkt beantworten lassen, ohne durch die App navigieren zu müssen. Wische einfach auf dem Home Bildschirm von der Bildschirmmitte nach unten.</p>
 
-
-
-
-
+<p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" "></p>
 
 <p><b><center><font color="1E2E56" size="24">Dynamische Wallpaper</font></center></b></p>
 
@@ -51,10 +41,7 @@ title: Bordfinder 4 - Alles neu
 
 <p>Wenn gewünscht, passt sich das Hintergrundbild der aktuellen Tageszeit an. So siehst du abends den Sonnenuntergang nicht nur von deiner Kabine, sondern auch wenn du die Mein Schiff Bordfinder App benutzt.</p>
 
-
-
-
-
+<p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" "></p>
 
 <p><b><center><font color="1E2E56" size="24">Dark mode</font></center></b></p>
 
@@ -62,8 +49,7 @@ title: Bordfinder 4 - Alles neu
 
 <p>Passend zum neuen iOS 13 Update bietet die App ab sofort volle Unterstützung zum Dark Mode, um deine Augen in dunklem Licht zu schonen. Der Dark Mode passt sich außerdem der Systemeinstellung an.</p>
 
-
-
+<p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" "></p>
 
 <p><b><center><font color="1E2E56" size="24">WhatsApp Support</font></center></b></p>
 
