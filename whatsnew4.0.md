@@ -23,7 +23,7 @@ title: Bordfinder 4 - Alles neu
 
 <p><b><center><font color="1E2E56" size="24">Homescreen</font></center></b></p>
 
-<p style="text-align:center;"><img src="/Promo4.0Resources/promoHomescreen.gif" alt="promoHomescreenImage"></p>
+<p style="text-align:center;"><img src="/Promo4.0Resources/promoHomescreen.gif" alt="promoHomescreenImage" width="175" height="340"></p>
 
 <p>Der Homescreen ist jetzt noch einfacher zu bedienen. Alle Symbole sind ab sofort nur noch einen Wisch entfernt. Außerdem werden alle Randinformationen wie z.B. die Reise bzw. Kabinennummer auf jeder Seite angezeigt.</p>
 
