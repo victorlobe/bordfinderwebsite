@@ -67,4 +67,4 @@ Du kannst alle deine Fragen ab sofort direkt über WhatsApp stellen. Gehe dazu i
 
 
 <font color="b5b5b5" size="8">Ende des Jahres kostenlos für alle Besitzer einer älteren Bordfinder Version erhältlich.</font>
-<font color="b5b5b5" size="8">Für den Sprachassistenten wird ios 10 oder neuer benötigt.</font>
+<font color="b5b5b5" size="8">Für den Sprachassistenten wird iOS 10 oder neuer benötigt.</font>
