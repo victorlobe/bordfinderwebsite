@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Bordfinder 4 - Alles neu
+title: Bordfinder 4 - Das bisher größte Bordfinder Update
 ---
 
- <b><center><font color="1E2E56" size="40">Bordfinder 4 - Alles neu</font></center></b>
+ <b><center><font color="1E2E56" size="40">Bordfinder 4 - Das bisher größte Bordfinder Update</font></center></b>
 
  <p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="240"></p>
 
