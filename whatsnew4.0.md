@@ -73,8 +73,8 @@ title: Bordfinder 4 - Alles neu
 <p>Du kannst alle deine Fragen ab sofort direkt über WhatsApp stellen. Gehe dazu in die Einstellungen der App, dann auf den Kontakt Button und wähle den WhatsApp Support aus. Du profitierst von deutlich schnelleren Reaktionszeiten.</p>
 
 
-<font color="b5b5b5">Ende des Jahres kostenlos für alle Besitzer einer älteren Bordfinder Version erhältlich.</font>
-<font color="b5b5b5">Für den Sprachassistenten wird iOS 10 oder neuer benötigt.</font>
+<p><font color="b5b5b5">Ende des Jahres kostenlos für alle Besitzer einer älteren Bordfinder Version erhältlich.</font></p>
+<p><font color="b5b5b5">Für den Sprachassistenten wird iOS 10 oder neuer benötigt.</font></p>
 <p><font color="b5b5b5">Die hier gezeigten Darstellungen können von der Realität abweichen.</font></p>
 <p><font color="b5b5b5">Für den Dark Mode mit Systemsynchronisierung wird iOS 13 oder neuer benötigt. Der Dark Mode kann jedoch unter allen Versionen aktiviert werden.</font></p>
 <p><font color="b5b5b5">Für den WhatsApp Support gelten die Bestimmungen von WhatsApp inc.</font></p>
