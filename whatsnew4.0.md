@@ -42,7 +42,7 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 
 <p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="240"></p>
 
-<p style="text-align:center;"><img src="/Promo4.0Resources/promoDarkMode.gif" alt="promoHomescreen"></p>
+<p style="text-align:center;"><img src="/Promo4.0Resources/promoDarkMode.gif" alt="promoHomescreen" width="175" height="351"></p>
 
 <p><center><font color="1E2E56" size="24">Dark mode</font></center></p>
 
