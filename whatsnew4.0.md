@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Bordfinder 4.0 - Alles auf neu
+title: Bordfinder 4 - Alles neu
 ---
 
- <b><center><font color="1E2E56" size="40">Mein Schiff Bordfinder 4.0 - Alles auf neu</font></center></b>
+ <b><center><font color="1E2E56" size="40">Bordfinder 4 - Alles neu</font></center></b>
 
 
 
