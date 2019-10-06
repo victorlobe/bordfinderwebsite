@@ -10,7 +10,7 @@ title: Bordfinder 4 - Alles neu
 
 
 
-<b><center><font color="1E2E56" size="24">Reisemanager</font></center></b>
+<p><b><center><font color="1E2E56" size="24">Reisemanager</font></center></b></p>
 
 <img src="/Promo4.0Resources/promoManager.png" alt="TravelMangerPromoImage" class="inline" height="327" width="165.5" align="middle"/>
 <img src="/Promo4.0Resources/promoManagerDay.png" alt="TravelMangerPromoImage" class="inline" height="327" width="165.5" align="middle"/>
@@ -22,7 +22,7 @@ title: Bordfinder 4 - Alles neu
 
 
 
-<b><center><font color="1E2E56" size="24">Homescreen</font></center></b>
+<p><b><center><font color="1E2E56" size="24">Homescreen</font></center></b></p>
 
 <img src="/Promo4.0Resources/promoHomescreenHD.gif" alt="promoHomescreen" class="inline" align="middle"/>
 
@@ -35,7 +35,7 @@ title: Bordfinder 4 - Alles neu
 
 
 
-<b><center><font color="1E2E56" size="24">Sprachassistent</font></center></b>
+<p><b><center><font color="1E2E56" size="24">Sprachassistent</font></center></b></p>
 
 <video width="165.5" height="327" controls autoplay>
   <source src="/Promo4.0Resources/promoSiri.mp4" type="video/mp4">
@@ -48,7 +48,7 @@ title: Bordfinder 4 - Alles neu
 
 
 
-<b><center><font color="1E2E56" size="24">Dynamische Wallpaper</font></center></b>
+<p><b><center><font color="1E2E56" size="24">Dynamische Wallpaper</font></center></b></p>
 
 <img src="/Promo4.0Resources/promoDynamicAppereance.gif" alt="promoHomescreen" class="inline" height="327" width="165.5" align="middle"/>
 
@@ -59,7 +59,7 @@ title: Bordfinder 4 - Alles neu
 
 
 
-<b><center><font color="1E2E56" size="24">Dark mode</font></center></b>
+<p><b><center><font color="1E2E56" size="24">Dark mode</font></center></b></p>
 
 <img src="/Promo4.0Resources/promoDarkMode.gif" alt="promoHomescreen" class="inline" height="327" width="165.5" align="middle"/>
 
@@ -68,7 +68,7 @@ title: Bordfinder 4 - Alles neu
 
 
 
-<b><center><font color="1E2E56" size="24">WhatsApp Support</font></center></b>
+<p><b><center><font color="1E2E56" size="24">WhatsApp Support</font></center></b></p>
 
 <p>Du kannst alle deine Fragen ab sofort direkt über WhatsApp stellen. Gehe dazu in die Einstellungen der App, dann auf den Kontakt Button und wähle den WhatsApp Support aus. Du profitierst von deutlich schnelleren Reaktionszeiten.</p>
 
