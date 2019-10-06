@@ -47,7 +47,7 @@ title: Bordfinder 4 - Alles neu
 
 <p><b><center><font color="1E2E56" size="24">Dynamische Wallpaper</font></center></b></p>
 
-<p style="text-align:center;"><img src="/Promo4.0Resources/promoDynamicAppereance.gif" alt="promoDynamicAppereance"></p>
+<p style="text-align:center;" width="175" height="351"><img src="/Promo4.0Resources/promoDynamicAppereance.gif" alt="promoDynamicAppereance"></p>
 
 <p>Wenn gewünscht, passt sich das Hintergrundbild der aktuellen Tageszeit an. So siehst du abends den Sonnenuntergang nicht nur von deiner Kabine, sondern auch wenn du die Mein Schiff Bordfinder App benutzt.</p>
 
