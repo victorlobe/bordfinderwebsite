@@ -8,10 +8,12 @@ title: Bordfinder 4 - Alles neu
 
 
 
-<img src="/Promo4.0Resources/promoManager.png" alt="TravelMangerPromoImage" class="inline" height="327" width="165.5" align="middle"/>
-<img src="/Promo4.0Resources/promoManagerDay.png" alt="TravelMangerPromoImage" class="inline" height="327" width="165.5" align="middle"/>
+
 
 <b><center><font color="1E2E56" size="24">Reisemanager</font></center></b>
+
+<img src="/Promo4.0Resources/promoManager.png" alt="TravelMangerPromoImage" class="inline" height="327" width="165.5" align="middle"/>
+<img src="/Promo4.0Resources/promoManagerDay.png" alt="TravelMangerPromoImage" class="inline" height="327" width="165.5" align="middle"/>
 
 Ab sofort wirst du vor, während und nach der Reise von der Mein Schiff Bordfinder App begleitet. Plane jeden Tag bis ins kleinste Detail und werde rechtzeitig an deine Termine erinnert.
 
@@ -19,9 +21,10 @@ Ab sofort wirst du vor, während und nach der Reise von der Mein Schiff Bordfind
 
 
 
-<img src="/Promo4.0Resources/promoHomescreenHD.gif" alt="promoHomescreen" class="inline" align="middle"/>
 
 <b><center><font color="1E2E56" size="24">Homescreen</font></center></b>
+
+<img src="/Promo4.0Resources/promoHomescreenHD.gif" alt="promoHomescreen" class="inline" align="middle"/>
 
 Der Homescreen ist jetzt noch einfacher zu bedienen. Alle Symbole sind ab sofort nur noch einen Wisch entfernt. Außerdem werden alle Randinformationen wie z.B. die Reise bzw. Kabinennummer auf jeder Seite angezeigt.
 
@@ -30,11 +33,13 @@ Der Homescreen ist jetzt noch einfacher zu bedienen. Alle Symbole sind ab sofort
 
 
 
+
+
+<b><center><font color="1E2E56" size="24">Sprachassistent</font></center></b>
+
 <video width="165.5" height="327" controls autoplay>
   <source src="/Promo4.0Resources/promoSiri.mp4" type="video/mp4">
 </video>
-
-<b><center><font color="1E2E56" size="24">Sprachassistent</font></center></b>
 
 Mit dem neuen Assistenten kannst du dir alle deine Fragen direkt beantworten lassen, ohne durch die App navigieren zu müssen. Wische einfach auf dem Home Bildschirm von der Bildschirmmitte nach unten.
 
