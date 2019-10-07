@@ -31,6 +31,122 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 <button type="button">Termine</button>
 <button type="button">Zurück zum Schiff</button>
 
+<a href="#" class="siriDemoOpening">Öffnungszeiten</a>
+
+.siriDemoOpening {
+	background:linear-gradient(to bottom, #1e2e56 5%, #1e2e56 100%);
+	background-color:#1e2e56;
+	border-radius:28px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ace7f2;
+	font-family:Arial;
+	font-size:17px;
+	padding:4px 30px;
+	text-decoration:none;
+}
+.siriDemoOpening:hover {
+	background:linear-gradient(to bottom, #1e2e56 5%, #1e2e56 100%);
+	background-color:#1e2e56;
+}
+.siriDemoOpening:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+
+<a href="#" class="siriDemoWhere">Wo ist was?</a>
+
+.siriDemoWhere {
+	background:linear-gradient(to bottom, #1e2e56 5%, #1e2e56 100%);
+	background-color:#1e2e56;
+	border-radius:28px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ace7f2;
+	font-family:Arial;
+	font-size:17px;
+	padding:4px 30px;
+	text-decoration:none;
+}
+.siriDemoWhere:hover {
+	background:linear-gradient(to bottom, #1e2e56 5%, #1e2e56 100%);
+	background-color:#1e2e56;
+}
+.siriDemoWhere:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+
+
+
+
+
+<a href="#" class="siriDemoEvent">Termine</a>
+
+.siriDemoEvent {
+	background:linear-gradient(to bottom, #1e2e56 5%, #1e2e56 100%);
+	background-color:#1e2e56;
+	border-radius:28px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ace7f2;
+	font-family:Arial;
+	font-size:17px;
+	padding:4px 30px;
+	text-decoration:none;
+}
+.siriDemoEvent:hover {
+	background:linear-gradient(to bottom, #1e2e56 5%, #1e2e56 100%);
+	background-color:#1e2e56;
+}
+.siriDemoEvent:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+<a href="#" class="siriDemoBackToShip">Zurück am Schiff</a>
+
+.siriDemoBackToShip {
+	background:linear-gradient(to bottom, #1e2e56 5%, #1e2e56 100%);
+	background-color:#1e2e56;
+	border-radius:28px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ace7f2;
+	font-family:Arial;
+	font-size:17px;
+	padding:4px 30px;
+	text-decoration:none;
+}
+.siriDemoBackToShip:hover {
+	background:linear-gradient(to bottom, #1e2e56 5%, #1e2e56 100%);
+	background-color:#1e2e56;
+}
+.siriDemoBackToShip:active {
+	position:relative;
+	top:1px;
+}
+
+        
+
 <p><center><font color="1E2E56" size="24">Sprachassistent</font></center></p>
 
 <p>Mit dem neuen Assistenten kannst du dir alle deine Fragen direkt beantworten lassen, ohne durch die App navigieren zu müssen. Wische einfach auf dem Home Bildschirm von der Bildschirmmitte nach unten.</p>
