@@ -26,6 +26,10 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 <p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="240"></p>
 
 <p style="text-align:center;"><img src="/Promo4.0Resources/siriDemoOpen.gif" alt=" " width="300" height="125"></p>
+<button type="button">Öffnungszeiten</button>
+<button type="button">Ort eines Bereichs</button>
+<button type="button">Termine</button>
+<button type="button">Zurück zum Schiff</button>
 
 <p><center><font color="1E2E56" size="24">Sprachassistent</font></center></p>
 
