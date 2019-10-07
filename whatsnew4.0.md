@@ -54,11 +54,9 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 	position:relative;
 	top:1px;
 }
-</style>
 
 
 
-<style>
 <a href="#" class="siriDemoWhere">Wo ist was?</a>
 
 .siriDemoWhere {
@@ -81,7 +79,6 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 	position:relative;
 	top:1px;
 }
-</style>
 
 
 
@@ -89,7 +86,6 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 
 
 
-<style>
 <a href="#" class="siriDemoEvent">Termine</a>
 
 .siriDemoEvent {
@@ -112,7 +108,6 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 	position:relative;
 	top:1px;
 }
-</style>
 
 
 
@@ -122,7 +117,6 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 
 
 
-<style>
 <a href="#" class="siriDemoBackToShip">Zurück am Schiff</a>
 
 .siriDemoBackToShip {
