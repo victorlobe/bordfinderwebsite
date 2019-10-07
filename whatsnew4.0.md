@@ -31,6 +31,7 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 <button type="button">Termine</button>
 <button type="button">Zurück zum Schiff</button>
 
+<style>
 <a href="#" class="siriDemoOpening">Öffnungszeiten</a>
 
 .siriDemoOpening {
@@ -53,11 +54,11 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 	position:relative;
 	top:1px;
 }
+</style>
 
 
 
-
-
+<style>
 <a href="#" class="siriDemoWhere">Wo ist was?</a>
 
 .siriDemoWhere {
@@ -80,6 +81,7 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 	position:relative;
 	top:1px;
 }
+</style>
 
 
 
@@ -87,8 +89,7 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 
 
 
-
-
+<style>
 <a href="#" class="siriDemoEvent">Termine</a>
 
 .siriDemoEvent {
@@ -111,6 +112,7 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 	position:relative;
 	top:1px;
 }
+</style>
 
 
 
@@ -120,8 +122,7 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 
 
 
-
-
+<style>
 <a href="#" class="siriDemoBackToShip">Zurück am Schiff</a>
 
 .siriDemoBackToShip {
@@ -144,8 +145,8 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 	position:relative;
 	top:1px;
 }
+</style>
 
-        
 
 <p><center><font color="1E2E56" size="24">Sprachassistent</font></center></p>
 
