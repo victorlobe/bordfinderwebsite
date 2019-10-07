@@ -25,7 +25,12 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 
 <p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="240"></p>
 
-<p style="text-align:center;"><img src="/Promo4.0Resources/promoSiri.gif" alt="promoSiri"></p>
+<div class="simpleSlides">
+  <img class="slides animate-left" src="/Promo4.0Resources/siriDemoOpen.gif">
+  <img class="slides animate-left" src="/Promo4.0Resources/siriDemoWhere.gif">
+  <img class="slides animate-left" src="/Promo4.0Resources/siriDemoEvent.gif">
+  <img class="slides animate-left" src="/Promo4.0Resources/siriDemoBacktoship.gif">
+</div>
 
 <p><center><font color="1E2E56" size="24">Sprachassistent</font></center></p>
 
