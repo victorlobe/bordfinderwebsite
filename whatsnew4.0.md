@@ -6,7 +6,7 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
  <b><center><font color="1E2E56" size="10">Bordfinder 4</font></center></b>
  <b><center><font color="1E2E56">Das bisher größte Bordfinder Update</font></center></b>
 
- <p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="140"></p>
+ <p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="80"></p>
 
 
 <p style="text-align:center;"><img src="/Promo4.0Resources/promoManagerCombined.png" alt="TravelMangerPromoImage" width="440" height="327"></p>
@@ -15,7 +15,7 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 
 <p>Ab sofort wirst du vor, während und nach der Reise von der Mein Schiff Bordfinder App begleitet. Plane jeden Tag bis ins kleinste Detail und werde rechtzeitig an deine Termine erinnert.</p>
 
-<p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="240"></p>
+<p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="80"></p>
 
 <p style="text-align:center;"><img src="/Promo4.0Resources/promoHomescreen.gif" alt="promoHomescreenImage"></p>
 
@@ -23,15 +23,15 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 
 <p>Der Homescreen ist jetzt noch einfacher zu bedienen. Alle Symbole sind ab sofort nur noch einen Wisch entfernt. Außerdem werden alle Randinformationen wie z.B. die Reise bzw. Kabinennummer auf jeder Seite angezeigt.</p>
 
-<p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="240"></p>
+<p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="80"></p>
 
-<p style="text-align:center;"><img src="/Promo4.0Resources/siriDemoCombined.gif" alt=" " width="300" height="125"></p>
+<p style="text-align:center;"><img src="/Promo4.0Resources/siriDemoCombined.gif" alt=" " width="300" heighst="125"></p>
 
 <p><center><font color="1E2E56" size="22">Sprachassistent</font></center></p>
 
 <p>Mit dem neuen Assistenten kannst du dir alle deine Fragen direkt beantworten lassen, ohne durch die App navigieren zu müssen. Wische einfach auf dem Home Bildschirm von der Bildschirmmitte nach unten.</p>
 
-<p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="240"></p>
+<p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="80"></p>
 
 
 <p style="text-align:center;"><img src="/Promo4.0Resources/promoDynamicAppereance.gif" alt="promoDynamicAppereance" width="175" height="351"></p>
@@ -40,7 +40,7 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 
 <p>Wenn gewünscht, passt sich das Hintergrundbild der aktuellen Tageszeit an. So siehst du abends den Sonnenuntergang nicht nur von deiner Kabine, sondern auch wenn du die Mein Schiff Bordfinder App benutzt.</p>
 
-<p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="240"></p>
+<p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="80"></p>
 
 <p style="text-align:center;"><img src="/Promo4.0Resources/promoDarkMode.gif" alt="promoHomescreen" width="175" height="351"></p>
 
@@ -48,13 +48,13 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 
 <p>Passend zum neuen iOS 13 Update bietet die App ab sofort volle Unterstützung zum Dark Mode, um deine Augen in dunklem Licht zu schonen. Der Dark Mode passt sich außerdem der Systemeinstellung an.</p>
 
-<p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="240"></p>
+<p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="80"></p>
 
 <p><center><font color="1E2E56" size="22">WhatsApp Support</font></center></p>
 
 <p>Du kannst alle deine Fragen ab sofort direkt über WhatsApp stellen. Gehe dazu in die Einstellungen der App, dann auf den Kontakt Button und wähle den WhatsApp Support aus. Du profitierst von deutlich schnelleren Reaktionszeiten.</p>
 
-<p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="240"></p>
+<p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="80"></p>
 
 <p><font color="b5b5b5" size="1">Ende des Jahres kostenlos für alle Besitzer einer älteren Bordfinder Version erhältlich.</font></p>
 <p><font color="b5b5b5" size="1">Benötigt ein iPhone 4s mit iOS 9 oder neuer.</font></p>
