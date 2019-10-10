@@ -3,12 +3,9 @@ layout: default
 title: Bordfinder 4 - Das bisher größte Bordfinder Update
 ---
 
-<meta property="og:image" content="https://github.com/victorlobe/bordfinderwebsite/blob/master/Promo4.0Resources/promoManagerCombined.png">
-<meta property="og:image:type" content="image/png">
-<meta property="og:image:width" content="1024">
-<meta property="og:image:height" content="1024">
-
 [Home](./index.md)
+
+<p style="text-align:center;"><img src="/Promo4.0Resources/promoManagerCombined.png" alt="TravelMangerPromoImage" width="0" height="0"></p>
 
  <b><center><font color="1E2E56" size="10">Bordfinder 4</font></center></b>
  <b><center><font color="1E2E56">Das bisher größte Bordfinder Update</font></center></b>
