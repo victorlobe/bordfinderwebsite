@@ -68,4 +68,3 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 <p><font color="b5b5b5" size="1">Für den Dark Mode mit Systemsynchronisierung wird iOS 13 oder neuer benötigt. Der Dark Mode kann jedoch unter allen Versionen aktiviert werden.</font></p>
 <p><font color="b5b5b5" size="1">Für Dynamische Wallpaper wird ein iPhone 5 oder neuer benötigt.</font></p>
 <p><font color="b5b5b5" size="1">Für den WhatsApp Support gelten die Bestimmungen von WhatsApp inc.</font></p>
-<p><font color="b5b5b5" size="1">Die hier gezeigten Darstellungen können von der Realität abweichen.</font></p>
