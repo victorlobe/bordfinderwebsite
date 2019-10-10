@@ -9,7 +9,7 @@ title: Willkommen auf der Webseite der Bordfinder Apps
 
 ## Mein Schiff Bordfinder Apps
 
-<img src="/Promo4.0Resources/promoDarkMode.gif" alt="hi" class="inline" align="right"/>
+<img src="/Promo4.0Resources/promoDynamicAppereance.gif" alt="hi" class="inline" align="right"/>
 
 ### Funktionen
 
@@ -17,7 +17,8 @@ title: Willkommen auf der Webseite der Bordfinder Apps
 - Informationen der einzelnen Bereiche
 - Sehen sie live, wann welcher Bereich geöffnet hat
 - Detaillierte Deckpläne mit Legende
-- Terminmanager
+- Reisemanager
+- Sprachassistent
 - Rufen Sie das „Meine Reise“ Menü oder das Bordportal direkt von der App aus auf
 - Integrierte Umrechner wie z.B. ein Windstärken-Rechner
 - Lesen sie sich spannende Informationen über das Schiff durch
