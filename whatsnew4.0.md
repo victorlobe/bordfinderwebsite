@@ -3,6 +3,8 @@ layout: default
 title: Bordfinder 4 - Das bisher größte Bordfinder Update
 ---
 
+[Home](./index.0.md)
+
  <b><center><font color="1E2E56" size="10">Bordfinder 4</font></center></b>
  <b><center><font color="1E2E56">Das bisher größte Bordfinder Update</font></center></b>
 
