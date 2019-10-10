@@ -23,7 +23,7 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 
 <p>Der Homescreen ist jetzt noch einfacher zu bedienen. Alle Symbole sind ab sofort nur noch einen Wisch entfernt. Außerdem werden alle Randinformationen wie z.B. die Reise bzw. Kabinennummer auf jeder Seite angezeigt.</p>
 
-<p><font size="3">Füge als erstes die grundlegenden Informationen wie die Kabine oder der Name deiner Reise in der App hinzu. Danach kannst du alle Tage deiner Reise hinzufügen. Anschließend kannst du alle deine Landausflüge, Tischreservierungen und andere Termine für jeden Tag hinzufügen, du kannst deine Termine selbstverständlich auch während der Reise bearbeiten. In der Smart Bar siehst du jeden Tag auf einen Blick in welchem Hafen du dich befindest und ob du Termine hast. Du kannst dich ebenfalls mit Push Benachrichtigungen rechtzeitig an deine Termine erinnern lassen.</font></p>
+<p><font size="2">Füge als erstes die grundlegenden Informationen wie die Kabine oder der Name deiner Reise in der App hinzu. Danach kannst du alle Tage deiner Reise hinzufügen. Anschließend kannst du alle deine Landausflüge, Tischreservierungen und andere Termine für jeden Tag hinzufügen, du kannst deine Termine selbstverständlich auch während der Reise bearbeiten. In der Smart Bar siehst du jeden Tag auf einen Blick in welchem Hafen du dich befindest und ob du Termine hast. Du kannst dich ebenfalls mit Push Benachrichtigungen rechtzeitig an deine Termine erinnern lassen.</font></p>
 
 <p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="120"></p>
 
@@ -33,7 +33,7 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 
 <p>Mit dem neuen Assistenten kannst du dir alle deine Fragen direkt beantworten lassen, ohne durch die App navigieren zu müssen. Wische einfach auf dem Home Bildschirm von der Bildschirmmitte nach unten.</p>
 
-<p><font size="3">Stelle fragen wie „Habe ich heute Termine?“, „Wo ist die nächste Toilette?“ oder „Wie lange hat das Atlantik Mediterran noch geöffnet?“. Auch Smalltalk ist möglich!</font></p>
+<p><font size="2">Stelle fragen wie „Habe ich heute Termine?“, „Wo ist die nächste Toilette?“ oder „Wie lange hat das Atlantik Mediterran noch geöffnet?“. Auch Smalltalk ist möglich!</font></p>
 
 <p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="120"></p>
 
