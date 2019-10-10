@@ -18,6 +18,9 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 
 <p>Ab sofort wirst du vor, während und nach der Reise von der Mein Schiff Bordfinder App begleitet. Plane jeden Tag bis ins kleinste Detail und werde rechtzeitig an deine Termine erinnert.</p>
 
+<p><font size="2">Füge als erstes die grundlegenden Informationen wie die Kabine oder der Name deiner Reise in der App hinzu. Danach kannst du alle Tage deiner Reise hinzufügen. Anschließend kannst du alle deine Landausflüge, Tischreservierungen und andere Termine für jeden Tag hinzufügen, du kannst deine Termine selbstverständlich auch während der Reise bearbeiten. In der Smart Bar siehst du jeden Tag auf einen Blick in welchem Hafen du dich befindest und ob du Termine hast. Du kannst dich ebenfalls mit Push Benachrichtigungen rechtzeitig an deine Termine erinnern lassen.</font></p>
+
+
 <p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="120"></p>
 
 <p style="text-align:center;"><img src="/Promo4.0Resources/promoHomescreen.gif" alt="promoHomescreenImage"></p>
@@ -25,8 +28,6 @@ title: Bordfinder 4 - Das bisher größte Bordfinder Update
 <p><center><font color="1E2E56" size="22">Homescreen</font></center></p>
 
 <p>Der Homescreen ist jetzt noch einfacher zu bedienen. Alle Symbole sind ab sofort nur noch einen Wisch entfernt. Außerdem werden alle Randinformationen wie z.B. die Reise bzw. Kabinennummer auf jeder Seite angezeigt.</p>
-
-<p><font size="2">Füge als erstes die grundlegenden Informationen wie die Kabine oder der Name deiner Reise in der App hinzu. Danach kannst du alle Tage deiner Reise hinzufügen. Anschließend kannst du alle deine Landausflüge, Tischreservierungen und andere Termine für jeden Tag hinzufügen, du kannst deine Termine selbstverständlich auch während der Reise bearbeiten. In der Smart Bar siehst du jeden Tag auf einen Blick in welchem Hafen du dich befindest und ob du Termine hast. Du kannst dich ebenfalls mit Push Benachrichtigungen rechtzeitig an deine Termine erinnern lassen.</font></p>
 
 <p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="120"></p>
 
