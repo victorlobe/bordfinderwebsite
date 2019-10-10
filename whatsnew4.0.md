@@ -2,17 +2,15 @@
 layout: default
 title: Bordfinder 4 - Das bisher größte Bordfinder Update
 ---
+ <p style="text-align:center;"><img src="/Promo4.0Resources/thumbnail.JPG" alt=" " width="0" height="0"></p>
 
 [Home](./index.md)
 
 
- <!--#<b><center><font color="1E2E56" size="10">Bordfinder 4</font></center></b>
- <b><center><font color="1E2E56">Das bisher größte Bordfinder Update</font></center></b>-->
-
- <p style="text-align:center;"><img src="/Promo4.0Resources/thumbnail.JPG" alt=" " width="600" height="315"></p>
+ <b><center><font color="1E2E56" size="10">Bordfinder 4</font></center></b>
+ <b><center><font color="1E2E56">Das bisher größte Bordfinder Update</font></center></b>
 
  <p style="text-align:center;"><img src="/Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="120"></p>
-
 
 <p style="text-align:center;"><img src="/Promo4.0Resources/promoManagerCombined.png" alt="TravelMangerPromoImage" width="400" height="287"></p>
 
