@@ -2,7 +2,7 @@
 layout: default
 title: Bordfinder 4 - Das bisher größte Bordfinder Update
 ---
- <p style="text-align:center;"><img src="/Promo4.0Resources/thumbnail.JPG" alt=" " width="0" height="0"></p>
+ <p style="text-align:center;"><img src="/Promo4.0Resources/thumbnailFixed.JPG" alt=" " width="0" height="0"></p>
 
 [Home](./index.md)
 
