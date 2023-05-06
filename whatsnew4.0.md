@@ -12,7 +12,8 @@ title: Bordfinder 4.0 - Das bisher größte Bordfinder Update
 
  <p style="text-align:center;"><img src="./Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="120"></p>
 
-<p style="text-align:center;"><img src="./Promo4.0Resources/promoManagerCombined.png" alt="TravelMangerPromoImage" width="400" height="287"></p>
+<img src="./Promo4.0Resources/promoManagerCombined.png" alt="hi" class="inline" align="right" width="400" height="287"/>
+
 
 <p><center><font color="1E2E56" size="22">Reisemanager</font></center></p>
 
