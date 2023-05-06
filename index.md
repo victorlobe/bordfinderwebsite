@@ -40,6 +40,8 @@ title: Willkommen auf der Webseite der Bordfinder Apps
 
 - Mein Schiff 1 Bordfinder
 
+## Bald verfügbar: AIDA Bordfinder
+
 
 ## Kontakt
 
