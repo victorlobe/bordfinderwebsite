@@ -1,0 +1,10 @@
+theme: jekyll-theme-cayman
+title: "Mein Schiff Bordfinder"
+description: "Die offizielle Webseite der Bordfinder Apps."
+permalink: /:changelog/
+url: 'https://victorlobe.github.io/'
+baseurl: 'bordfinderwebsite/'
+github:
+  is_project_page: false
+footer:
+  display: none
