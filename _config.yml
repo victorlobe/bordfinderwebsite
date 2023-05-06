@@ -3,6 +3,6 @@ title: "Mein Schiff Bordfinder"
 description: "Die offizielle Webseite der Bordfinder Apps."
 permalink: /:changelog/
 github:
-  is_project_page: false
+  is_project_page: true
 footer:
   display: none
