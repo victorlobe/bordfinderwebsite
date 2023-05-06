@@ -9,7 +9,7 @@ title: Willkommen auf der Webseite der Bordfinder Apps
 
 ## Mein Schiff Bordfinder Apps
 
-<img src="/Promo4.0Resources/promoDynamicAppereance.gif" alt="hi" class="inline" align="right"/>
+<img src="./Promo4.0Resources/promoDynamicAppereance.gif" alt="hi" class="inline" align="right"/>
 
 ### Funktionen
 
