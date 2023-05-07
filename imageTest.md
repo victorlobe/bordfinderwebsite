@@ -9,4 +9,4 @@ title: Willkommen auf der Webseite der Bordfinder Apps
 
 
 
-<p style="text-align:center;"><img src="./Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="120"></p>
+<p style="text-align:center;"><img src="./promoDynamicAppereance.gif" alt=" " width="640" height="120"></p>
