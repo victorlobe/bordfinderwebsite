@@ -3,3 +3,4 @@
 
 
 
+<p style="text-align:center;"><img src="./Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="120"></p>
