@@ -1,3 +1,9 @@
+---
+layout: default
+title: Willkommen auf der Webseite der Bordfinder Apps
+---
+
+
 
 <img src="./Promo4.0Resources/promoDynamicAppereance.gif" alt="hi" class="inline" align="right"/>
 
