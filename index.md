@@ -5,7 +5,7 @@ title: Willkommen auf der Webseite der Bordfinder Apps
 
 <!--# [Changelog](./changelog.md)   [Kontakt](./contact.html)-->
 
-[Was gibt es neues in Version 4?](./whatsnew4.0.md)
+[Was gibt es neues in Version 4?](./imageTest.md)
 
 ## Mein Schiff Bordfinder Apps
 
