@@ -12,9 +12,6 @@ title: Bordfinder 4.0 - Das bisher größte Bordfinder Update
 ![](./Promo4.0Resources/whiteBackground.png)
 ![](./Promo4.0Resources/promoManagerCombined.png)
 
-<img src="./Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="120" title="">
-
-<img src="./Promo4.0Resources/promoManagerCombined.png" alt="TravelManagerPromoImage" width="400" height="287">
 
 
 <p><center><font color="1E2E56" size="22">Reisemanager</font></center></p>
@@ -23,18 +20,18 @@ title: Bordfinder 4.0 - Das bisher größte Bordfinder Update
 
 <p><font size="2">Füge als erstes die grundlegenden Informationen wie die Kabine oder der Name deiner Reise in der App hinzu. Danach kannst du alle Tage deiner Reise hinzufügen. Anschließend kannst du alle deine Landausflüge, Tischreservierungen und andere Termine für jeden Tag hinzufügen, du kannst deine Termine selbstverständlich auch während der Reise bearbeiten. In der Smart Bar siehst du jeden Tag auf einen Blick in welchem Hafen du dich befindest und ob du Termine hast. Du kannst dich ebenfalls mit Push Benachrichtigungen rechtzeitig an deine Termine erinnern lassen.</font></p>
 
+![](./Promo4.0Resources/whiteBackground.png)
+![](./Promo4.0Resources/promoHomescreen.png)
 
-<p style="text-align:center;"><img src="./Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="120"></p>
-
-<p style="text-align:center;"><img src="./Promo4.0Resources/promoHomescreen.gif" alt="promoHomescreenImage"></p>
 
 <p><center><font color="1E2E56" size="22">Homescreen</font></center></p>
 
 <p>Der Homescreen ist jetzt noch einfacher zu bedienen. Alle Symbole sind ab sofort nur noch einen Wisch entfernt. Außerdem werden alle Randinformationen wie z.B. die Reise bzw. Kabinennummer auf jeder Seite angezeigt.</p>
 
-<p style="text-align:center;"><img src="./Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="120"></p>
 
-<p style="text-align:center;"><img src="./Promo4.0Resources/siriDemoCombined.gif" alt=" " width="300" heighst="125"></p>
+![](./Promo4.0Resources/whiteBackground.png)
+![](./Promo4.0Resources/siriDemoCombined.png)
+
 
 <p><center><font color="1E2E56" size="22">Sprachassistent</font></center></p>
 
@@ -42,30 +39,29 @@ title: Bordfinder 4.0 - Das bisher größte Bordfinder Update
 
 <p><font size="2">Stelle fragen wie „Habe ich heute Termine?“, „Wo ist die nächste Toilette?“ oder „Wie lange hat das Atlantik Mediterran noch geöffnet?“. Auch Smalltalk ist möglich!</font></p>
 
-<p style="text-align:center;"><img src="./Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="120"></p>
+![](./Promo4.0Resources/whiteBackground.png)
+![](./Promo4.0Resources/promoDynamicAppereance.png)
 
-
-<p style="text-align:center;"><img src="./Promo4.0Resources/promoDynamicAppereance.gif" alt="promoDynamicAppereance" width="175" height="351"></p>
 
 <p><center><font color="1E2E56" size="22">Dynamische Wallpaper</font></center></p>
 
 <p>Wenn gewünscht, passt sich das Hintergrundbild der aktuellen Tageszeit an. So siehst du abends den Sonnenuntergang nicht nur von deiner Kabine, sondern auch wenn du die Mein Schiff Bordfinder App benutzt.</p>
 
-<p style="text-align:center;"><img src="./Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="120"></p>
 
-<p style="text-align:center;"><img src="./Promo4.0Resources/promoDarkMode.gif" alt="promoHomescreen" width="175" height="351"></p>
+![](./Promo4.0Resources/whiteBackground.png)
+![](./Promo4.0Resources/promoDarkMode.png)
 
 <p><center><font color="1E2E56" size="22">Dark mode</font></center></p>
 
 <p>Passend zum neuen iOS 13 Update bietet die App ab sofort volle Unterstützung zum Dark Mode, um deine Augen in dunklem Licht zu schonen. Der Dark Mode passt sich außerdem der Systemeinstellung an.</p>
 
-<p style="text-align:center;"><img src="./Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="120"></p>
+![](./Promo4.0Resources/whiteBackground.png)
 
 <p><center><font color="1E2E56" size="22">WhatsApp Support</font></center></p>
 
 <p>Du kannst alle deine Fragen ab sofort direkt über WhatsApp stellen. Gehe dazu in die Einstellungen der App, dann auf den Kontakt Button und wähle den WhatsApp Support aus. Du profitierst von deutlich schnelleren Reaktionszeiten.</p>
 
-<p style="text-align:center;"><img src="./Promo4.0Resources/whiteBackground.png" alt=" " width="640" height="120"></p>
+![](./Promo4.0Resources/whiteBackground.png)
 
 <p><font color="b5b5b5" size="1">Ende des Jahres 2023 kostenlos für alle Besitzer einer älteren Bordfinder Version erhältlich.</font></p>
 <p><font color="b5b5b5" size="1">Benötigt ein iPhone 4s mit iOS 9 oder neuer.</font></p>
