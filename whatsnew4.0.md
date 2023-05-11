@@ -21,7 +21,7 @@ title: Bordfinder 4.0 - Das bisher größte Bordfinder Update
 <p><font size="2">Füge als erstes die grundlegenden Informationen wie die Kabine oder der Name deiner Reise in der App hinzu. Danach kannst du alle Tage deiner Reise hinzufügen. Anschließend kannst du alle deine Landausflüge, Tischreservierungen und andere Termine für jeden Tag hinzufügen, du kannst deine Termine selbstverständlich auch während der Reise bearbeiten. In der Smart Bar siehst du jeden Tag auf einen Blick in welchem Hafen du dich befindest und ob du Termine hast. Du kannst dich ebenfalls mit Push Benachrichtigungen rechtzeitig an deine Termine erinnern lassen.</font></p>
 
 ![](./Promo4.0Resources/whiteBackground.png)
-![](./Promo4.0Resources/promoHomescreen.png)
+![](./Promo4.0Resources/promoHomescreen.gif)
 
 
 <p><center><font color="1E2E56" size="22">Homescreen</font></center></p>
@@ -30,7 +30,7 @@ title: Bordfinder 4.0 - Das bisher größte Bordfinder Update
 
 
 ![](./Promo4.0Resources/whiteBackground.png)
-![](./Promo4.0Resources/siriDemoCombined.png)
+![](./Promo4.0Resources/siriDemoCombined.gif)
 
 
 <p><center><font color="1E2E56" size="22">Sprachassistent</font></center></p>
@@ -40,7 +40,7 @@ title: Bordfinder 4.0 - Das bisher größte Bordfinder Update
 <p><font size="2">Stelle fragen wie „Habe ich heute Termine?“, „Wo ist die nächste Toilette?“ oder „Wie lange hat das Atlantik Mediterran noch geöffnet?“. Auch Smalltalk ist möglich!</font></p>
 
 ![](./Promo4.0Resources/whiteBackground.png)
-![](./Promo4.0Resources/promoDynamicAppereance.png)
+![](./Promo4.0Resources/promoDynamicAppereance.gif)
 
 
 <p><center><font color="1E2E56" size="22">Dynamische Wallpaper</font></center></p>
@@ -49,7 +49,7 @@ title: Bordfinder 4.0 - Das bisher größte Bordfinder Update
 
 
 ![](./Promo4.0Resources/whiteBackground.png)
-![](./Promo4.0Resources/promoDarkMode.png)
+![](./Promo4.0Resources/promoDarkMode.gif)
 
 <p><center><font color="1E2E56" size="22">Dark mode</font></center></p>
 
